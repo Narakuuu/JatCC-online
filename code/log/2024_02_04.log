@@ -1,0 +1,24 @@
+2024-02-04 01:55:08.496377 [info] : ========== Server init ==========
+2024-02-04 01:55:08.496454 [info] : Port:1316, OpenLinger: false
+2024-02-04 01:55:08.496690 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-02-04 01:55:08.496717 [info] : LogSys level: 1
+2024-02-04 01:55:08.496732 [info] : srcDir: /home/vijay/Desktop/VijayWebServer/WebServer_Vijay/resources/
+2024-02-04 01:55:08.496745 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-02-04 01:55:08.496757 [info] : ========== Server start ==========
+2024-02-04 01:55:19.183570 [info] : Client[6](192.168.220.1:51404) in, userCount:1
+2024-02-04 01:55:19.184518 [info] : Client[6] in!
+2024-02-04 01:55:19.206454 [info] : Client[7](192.168.220.1:51660) in, userCount:2
+2024-02-04 01:55:19.206890 [info] : Client[7] in!
+2024-02-04 01:55:19.208170 [info] : Client[8](192.168.220.1:51916) in, userCount:3
+2024-02-04 01:55:19.208503 [info] : Client[8] in!
+2024-02-04 01:57:27.642733 [info] : ========== Server init ==========
+2024-02-04 01:57:27.642799 [info] : Port:1316, OpenLinger: false
+2024-02-04 01:57:27.642819 [info] : Listen Mode: ET, OpenConn Mode: ET
+2024-02-04 01:57:27.642831 [info] : LogSys level: 1
+2024-02-04 01:57:27.642842 [info] : srcDir: /home/vijay/Desktop/VijayWebServer/WebServer_Vijay/resources/
+2024-02-04 01:57:27.642852 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2024-02-04 01:57:27.643255 [info] : ========== Server start ==========
+2024-02-04 01:57:33.436032 [info] : Client[6](192.168.220.1:61644) in, userCount:1
+2024-02-04 01:57:33.437160 [info] : Client[6] in!
+2024-02-04 01:57:33.458085 [info] : Client[7](192.168.220.1:61900) in, userCount:2
+2024-02-04 01:57:33.458298 [info] : Client[7] in!
