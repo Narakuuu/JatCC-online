@@ -46,6 +46,18 @@ make
 ./bin/server
 ```
 
+## Webbench测试结果
+```bash
+Webbench - Simple Web Benchmark 1.5
+Copyright (c) Radim Kolar 1997-2004, GPL Open Source Software.
+
+Benchmarking: GET http://192.168.220.128:1316/
+7000 clients, running 10 sec.
+
+Speed=611427 pages/min, 30136884 bytes/sec.
+Requests: 100208 susceed, 0 failed.
+```
+
 ## 致谢
 《Linux高性能服务器编程》，游双著.
   
