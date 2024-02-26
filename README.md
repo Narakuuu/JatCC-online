@@ -30,7 +30,7 @@
 jatcc.c作为基础版本不再改动。
 
 ## 实现细节
-- [jatcc.c的实现细节](jatcc.md)
+- [jatcc.c的实现细节与学习笔记](./code/compiler/jatcc.md)
 
 
 
