@@ -45,6 +45,16 @@ jatcc.c作为基础版本不再改动。
 make
 ./bin/server
 ```
+> * __样例1-module__
+```bash
+#include <stdio.h>
+
+int main () {
+    printf("Hello World\n");
+    return 0;
+}
+```
+[![Video Thumbnail](https://github.com/Narakuuu/IMG/blob/main/base.png)](https://github.com/Narakuuu/IMG/blob/main/base.mp4)
 
 ## Webbench测试结果
 ```bash
